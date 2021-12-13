@@ -1,7 +1,8 @@
-# hero
-a lowcode practice
+# HERO a magic lowcode
 
-use monorepo to build a lowcode system
+Perform a Lowcode practice
+
+TODO: use monorepo to build a lowcode system
 
 ## tech stack
 - pnpm workspace
